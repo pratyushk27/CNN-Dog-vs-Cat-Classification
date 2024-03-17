@@ -11,7 +11,8 @@ The primary goal of this project is to build a CNN model that can effectively cl
 # Dataset Acquisition:
 
 * Download the "Dogs vs. Cats" dataset from Kaggle, a collection of labeled images of dogs and cats.
-* Save the dataset in a specific folder in your Google Drive for easy access.
+* Save the dataset in a specific folder in my Google Drive for easy access.
+* drive link of dataset-- https://drive.google.com/file/d/1MX13utyB08qYKGo9qD6FGxyHPQF3p3kU/view?usp=drive_link
 
 # Data Preparation:
 
