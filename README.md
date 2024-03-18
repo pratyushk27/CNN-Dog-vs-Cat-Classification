@@ -6,8 +6,8 @@ In this project, we will develop a Convolutional Neural Network (CNN) model usin
 # Objective:
 The primary goal of this project is to build a CNN model that can effectively classify images as either a dog or a cat with high accuracy.
 
-* Steps:
-
+ 
+# Steps:
 # Dataset Acquisition:
 
 * Download the "Dogs vs. Cats" dataset from Kaggle, a collection of labeled images of dogs and cats.
